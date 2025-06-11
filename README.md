@@ -1,1 +1,1 @@
-to access : https://github.com/El0i-d/Portfolio/
+to access : https://el0i-d.github.io/Portfolio/portfolio.html
